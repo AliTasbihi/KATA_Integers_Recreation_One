@@ -1,0 +1,16 @@
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.csproj.AssemblyReference.cache
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.AssemblyInfoInputs.cache
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.AssemblyInfo.cs
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.csproj.CoreCompileInputs.cache
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\KATA_Integers_Recreation One.exe
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\KATA_Integers_Recreation One.deps.json
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\KATA_Integers_Recreation One.runtimeconfig.json
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\KATA_Integers_Recreation One.runtimeconfig.dev.json
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\KATA_Integers_Recreation One.dll
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\ref\KATA_Integers_Recreation One.dll
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\bin\Debug\net5.0\KATA_Integers_Recreation One.pdb
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.dll
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\ref\KATA_Integers_Recreation One.dll
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.pdb
+C:\Users\Tasbihi\Desktop\Ali\practice\KATA_Integers_Recreation One\obj\Debug\net5.0\KATA_Integers_Recreation One.genruntimeconfig.cache
